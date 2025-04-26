@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://toprejting.github.io/obzor/sitemap.xml
+Sitemap: https://toprejting.github.io/sitemap.xml
