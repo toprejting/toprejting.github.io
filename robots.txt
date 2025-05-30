@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toprejting.github.io/sitemap.xml
